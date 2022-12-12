@@ -1,4 +1,6 @@
 # CI-Module1-Final-Project
+cooking-banner.jpg![image](https://user-images.githubusercontent.com/101938444/207099312-02b84950-e8f3-42c0-a1d9-fbd77b3ddc31.png)
+
 
 # Cupboard Cuisine Recipe Finder:
 
